@@ -1,0 +1,2 @@
+snake:https://topdev.vn/blog/huong-dan-code-game-ran-san-moi-bang-python/
+thỏ đại chiến:https://topdev.vn/blog/huong-dan-code-game-tho-chien-binh-bang-python/
